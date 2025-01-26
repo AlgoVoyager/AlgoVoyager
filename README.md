@@ -21,7 +21,7 @@
 <p align="left">
 <a href="https://twitter.com/nishant_voyager" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="nishant_voyager" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/nishantdeveloper/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nishantdeveloper/" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/nishantdewangan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="nishantdewangan" height="30" width="40" /></a>
+<!-- <a href="https://www.leetcode.com/nishantdewangan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="nishantdewangan" height="30" width="40" /></a> -->
 <a href="https://auth.geeksforgeeks.org/user/nishantdewangan2002" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="nishantdewangan2002" height="30" width="40" /></a>
 <a href="https://discord.gg/pandu.pkp" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="pandu.pkp" height="30" width="40" /></a>
 </p>
