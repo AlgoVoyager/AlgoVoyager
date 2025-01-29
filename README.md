@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **nishantdewangan2002@gmail.com**
 
-- 📄 Know about my experiences [https://nishantdewangan.com](https://nishantdewangan.com)
+- 📄 Know about my experiences [https://nishantdewangan.com](https://nishantdewangan.vercel.app)
 
 - ⚡ Fun fact **We both Code**
 
