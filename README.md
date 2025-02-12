@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/nishant_voyager" target="blank"><img src="https://img.shields.io/twitter/follow/nishant_voyager?logo=twitter&style=for-the-badge" alt="nishant_voyager" /></a> </p>
 
-- 🔭 I’m Building  [AlgoVoyage](https://algovoyagers.vercel.app)
+- 🔭 I’m Building  [AlgoVoyager](https://algovoyagers.vercel.app)
 
 - 🌱 I’m currently learning **MERN NEXT.JS**
 
